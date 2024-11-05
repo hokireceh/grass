@@ -38,8 +38,8 @@ npm i user-agents cloudscraper axios colors p-limit https-proxy-agent socks-prox
 
 ## ⚠️ Note
 
-- Get auth data (`query_id=... /user=...`) in the `Application` tab in DevTools.
-- Auto features: Change `false` to `true` in the `config.json` file.
+- Get auth data (`userId":...`) in the `Application` tab in DevTools.
+- Auto features: Change `false` to `true` in the `configs.json` file.
 - Supported commands: `git pull` (Join group to use these commands).
 
 ## 💱 Support Me
