@@ -35,6 +35,7 @@ npm i user-agents cloudscraper axios colors p-limit https-proxy-agent socks-prox
 | Run with Proxy and Vps        | Run without Proxy and Vps |
 | -------------------------------- | ------------------- |
 | `main.js` `datas.txt` | `configs.json` `proxies.txt` |
+
 | 💡 How to get Grass UID | 💡 How to get Grass UID |
 | -------------------------------- | ------------------- |
 | `✔️ Go to Grass dashboard` | `✔️ Go to Grass dashboard` |
