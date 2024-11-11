@@ -39,10 +39,10 @@ npm i user-agents cloudscraper axios colors p-limit https-proxy-agent socks-prox
 ## ⚠️ Note
 
 - Get auth data (`userId":...`) in the `Application` tab in DevTools.
-💡 How to get Grass UID:
-✔️ Go to Grass dashboard: Link
-⌨️ Open devtool by f12 or ctrl shift i
-🖊️ Type command console.log(localStorage.getItem('userId'))
+|💡 How to get Grass UID:|
+|✔️ Go to Grass dashboard: Link|
+|⌨️ Open devtool by f12 or ctrl shift i|
+|🖊️ Type command console.log(localStorage.getItem('userId'))|
 
 - Auto features: Change `false` to `true` in the `configs.json` file.
 - Supported commands: `git pull` (Join group to use these commands).
